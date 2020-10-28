@@ -1,0 +1,54 @@
+<resources>
+    <!-- Bhargav Marsonia 301108254 sec 002 -->
+    <string name="app_name">BhargavLab3</string>
+    <string name="draw">Drawing</string>
+    <string name="anim">Image Animation</string>
+    <string name="rotate">Image Rotation</string>
+    <string name="fname">Bhargav</string>
+    <string name="lname">Marsonia</string>
+    <string name="sId">301108254</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="clear">Clear</string>
+    <string name="lineThickness">Select Thickness</string>
+    <string name="lineColor">Select Color</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="img1">First Fragment Image</string>
+    <string name="img2">Second Fragment Image</string>
+    <string name="img3">Third Fragment Image</string>
+    <string name="x">X: </string>
+    <string name="y">Y: </string>
+    <string name="close">Close </string>
+    <string name="sure">Are you sure? </string>
+    <string name="yes">Yes </string>
+    <string name="no">No </string>
+    <string name="permission">Check Permissions </string>
+    <string name="moon">Image of moon </string>
+    <string name="earth">Image of earth </string>
+    <string name="permissionAlready">Permissions already granted. </string>
+    <string name="selectSpeed">Select Speed </string>
+    <string name="speed1">1 </string>
+    <string name="speed2">2 </string>
+    <string name="speed3">3 </string>
+    <string name="speed4">4 </string>
+    <string name="animMsg">Please select the appropriate speed value </string>
+    <string name="select_speed_and_hit_start">select speed and hit start</string>
+
+    <string-array name="thickness">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+    </string-array>
+
+
+
+</resources>

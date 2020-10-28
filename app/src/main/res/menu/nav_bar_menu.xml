@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bhargavDraw"
+        android:icon="@drawable/ic_draw"
+        android:title="@string/draw"/>
+
+    <item
+        android:id="@+id/bhargavImageAnim"
+        android:icon="@drawable/ic_img_anim"
+        android:title="@string/anim"/>
+
+    <item
+        android:id="@+id/bhargavRotate"
+        android:icon="@drawable/ic_rotate"
+        android:title="@string/rotate"/>
+
+</menu>
